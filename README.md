@@ -15,4 +15,4 @@ I am a Frontend-focused software engineer with full-stack capability, passionate
 - **Tools:** Git, VS Code
 
 ### 📫 Connect with Me
-[💼 LinkedIn](https://linkedin.com/in/ameer-aqasyah) | [🌐 Portfolio](https://your-portfolio-url-here.com) | [📧 Email](ameer.aqasyah19@gmail.com)
+[💼 LinkedIn](https://linkedin.com/in/ameer-aqasyah) | [🌐 Portfolio](https://your-portfolio-url-here.com) | 📧 Email:ameer.aqasyah19@gmail.com
